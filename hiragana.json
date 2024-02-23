@@ -653,5 +653,255 @@
     "soal": "かぜ",
     "opsi_jawaban": "A. Hujan\nB. Angin\nC. Salju\nD. Panas",
     "jawaban": "B"
+  }, 
+  {
+    "soal": "いえ",
+    "opsi_jawaban": "A. Sekolah\nB. Rumah\nC. Toko\nD. Kantor",
+    "jawaban": "B"
+  },
+  {
+    "soal": "やさい",
+    "opsi_jawaban": "A. Buah\nB. Sayuran\nC. Daging\nD. Telur",
+    "jawaban": "B"
+  },
+  {
+    "soal": "あめ",
+    "opsi_jawaban": "A. Angin\nB. Hujan\nC. Salju\nD. Panas",
+    "jawaban": "B"
+  },
+  {
+    "soal": "はし",
+    "opsi_jawaban": "A. Sendok\nB. Garpu\nC. Sumpit\nD. Pisau",
+    "jawaban": "C"
+  },
+  {
+    "soal": "てがみ",
+    "opsi_jawaban": "A. Kartu\nB. Buku\nC. Surat\nD. Majalah",
+    "jawaban": "C"
+  },
+  {
+    "soal": "きんむぎ",
+    "opsi_jawaban": "A. Beras\nB. Gandum\nC. Jagung\nD. Kacang",
+    "jawaban": "B"
+  },
+  {
+    "soal": "にわ",
+    "opsi_jawaban": "A. Taman\nB. Hutan\nC. Sawah\nD. Lapangan",
+    "jawaban": "A"
+  },
+  {
+    "soal": "きっぷ",
+    "opsi_jawaban": "A. Tiket\nB. Uang\nC. Kunci\nD. Jam",
+    "jawaban": "A"
+  },
+  {
+    "soal": "くるま",
+    "opsi_jawaban": "A. Sepeda\nB. Mobil\nC. Motor\nD. Kereta",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ほんだな",
+    "opsi_jawaban": "A. Lemari Buku\nB. Meja\nC. Kursi\nD. Rak",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ともだち",
+    "opsi_jawaban": "A. Teman\nB. Saudara\nC. Guru\nD. Tetangga",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ぎんこう",
+    "opsi_jawaban": "A. Toko\nB. Bank\nC. Pasar\nD. Restoran",
+    "jawaban": "B"
+  },
+  {
+    "soal": "かさ",
+    "opsi_jawaban": "A. Topi\nB. Sarung Tangan\nC. Payung\nD. Sepatu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "いま",
+    "opsi_jawaban": "A. Hari Ini\nB. Kemarin\nC. Besok\nD. Sebentar Lagi",
+    "jawaban": "A"
+  },
+  {
+    "soal": "こうえん",
+    "opsi_jawaban": "A. Taman\nB. Pantai\nC. Hutan\nD. Lapangan",
+    "jawaban": "A"
+  },
+  {
+    "soal": "たんじょうび",
+    "opsi_jawaban": "A. Pesta\nB. Ulang Tahun\nC. Liburan\nD. Acara",
+    "jawaban": "B"
+  },
+  {
+    "soal": "おおきい",
+    "opsi_jawaban": "A. Kecil\nB. Sedang\nC. Besar\nD. Rendah",
+    "jawaban": "C"
+  },
+  {
+    "soal": "さくらんぼ",
+    "opsi_jawaban": "A. Jeruk\nB. Apel\nC. Pisang\nD. Ceri",
+    "jawaban": "D"
+  },
+  {
+    "soal": "かばん",
+    "opsi_jawaban": "A. Tas\nB. Sepatu\nC. Buku\nD. Dompet",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ほんや",
+    "opsi_jawaban": "A. Rumah Sakit\nB. Toko Buku\nC. Sekolah\nD. Kafe",
+    "jawaban": "B"
+  },
+  {
+    "soal": "あおいそら",
+    "opsi_jawaban": "A. Langit Merah\nB. Langit Kuning\nC. Langit Biru\nD. Langit Hijau",
+    "jawaban": "C"
+  },
+  {
+    "soal": "でんしゃ",
+    "opsi_jawaban": "A. Mobil\nB. Kereta\nC. Pesawat\nD. Kapal",
+    "jawaban": "B"
+  },
+  {
+    "soal": "さわ",
+    "opsi_jawaban": "A. Daging\nB. Sayuran\nC. Buah\nD. Ikan",
+    "jawaban": "D"
+  },
+  {
+    "soal": "けっこんしき",
+    "opsi_jawaban": "A. Pesta\nB. Pertunangan\nC. Pernikahan\nD. Ulang Tahun",
+    "jawaban": "C"
+  },
+  {
+    "soal": "いけ",
+    "opsi_jawaban": "A. Kolam\nB. Danau\nC. Laut\nD. Sungai",
+    "jawaban": "A"
+  },
+  {
+    "soal": "かみ",
+    "opsi_jawaban": "A. Rambut\nB. Kulit\nC. Mata\nD. Gigi",
+    "jawaban": "A"
+  },
+  {
+    "soal": "とけい",
+    "opsi_jawaban": "A. Jam\nB. Kaca\nC. Lampu\nD. Televisi",
+    "jawaban": "A"
+  },
+  {
+    "soal": "いえ",
+    "opsi_jawaban": "A. Sekolah\nB. Rumah\nC. Toko\nD. Kantor",
+    "jawaban": "B"
+  },
+  {
+    "soal": "すいせんじょう",
+    "opsi_jawaban": "A. Pantai\nB. Gunung\nC. Laut\nD. Padang Pasir",
+    "jawaban": "A"
+  },
+  {
+    "soal": "うち",
+    "opsi_jawaban": "A. Rumah\nB. Apartemen\nC. Kamar\nD. Villa",
+    "jawaban": "A"
+  },
+  {
+    "soal": "りょうり",
+    "opsi_jawaban": "A. Buku\nB. Musik\nC. Film\nD. Masakan",
+    "jawaban": "D"
+  },
+  {
+    "soal": "きんじょ",
+    "opsi_jawaban": "A. Kota\nB. Desa\nC. Negara\nD. Benua",
+    "jawaban": "B"
+  },
+  {
+    "soal": "つくえ",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Lemari\nD. Rak Buku",
+    "jawaban": "B"
+  },
+  {
+    "soal": "はな",
+    "opsi_jawaban": "A. Kupu-kupu\nB. Bunga\nC. Daun\nD. Rumput",
+    "jawaban": "B"
+  },
+  {
+    "soal": "たべもの",
+    "opsi_jawaban": "A. Minuman\nB. Makanan\nC. Buah\nD. Sayuran",
+    "jawaban": "B"
+  },
+  {
+    "soal": "やきゅう",
+    "opsi_jawaban": "A. Sepak Bola\nB. Bulu Tangkis\nC. Renang\nD. Baseball",
+    "jawaban": "D"
+  },
+  {
+    "soal": "せんもん",
+    "opsi_jawaban": "A. Olahraga\nB. Musik\nC. Seni\nD. Pekerjaan",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ひこうき",
+    "opsi_jawaban": "A. Mobil\nB. Sepeda Motor\nC. Pesawat\nD. Kapal",
+    "jawaban": "C"
+  },
+  {
+    "soal": "はなや",
+    "opsi_jawaban": "A. Kebun\nB. Florist\nC. Taman\nD. Hutan",
+    "jawaban": "B"
+  },
+  {
+    "soal": "おとうさん",
+    "opsi_jawaban": "A. Ibu\nB. Kakak\nC. Ayah\nD. Adik",
+    "jawaban": "C"
+  },
+  {
+    "soal": "かばん",
+    "opsi_jawaban": "A. Tas\nB. Sepatu\nC. Buku\nD. Dompet",
+    "jawaban": "A"
+  },
+  {
+    "soal": "うま",
+    "opsi_jawaban": "A. Anjing\nB. Kucing\nC. Ikan\nD. Kuda",
+    "jawaban": "D"
+  },
+  {
+    "soal": "てがみ",
+    "opsi_jawaban": "A. Kartu\nB. Buku\nC. Surat\nD. Majalah",
+    "jawaban": "C"
+  },
+  {
+    "soal": "あおい",
+    "opsi_jawaban": "A. Merah\nB. Kuning\nC. Biru\nD. Hijau",
+    "jawaban": "C"
+  },
+  {
+    "soal": "こども",
+    "opsi_jawaban": "A. Orang Dewasa\nB. Anak-Anak\nC. Remaja\nD. Lansia",
+    "jawaban": "B"
+  },
+  {
+    "soal": "いす",
+    "opsi_jawaban": "A. Meja\nB. Kursi\nC. Lemari\nD. Rak Buku",
+    "jawaban": "B"
+  },
+  {
+    "soal": "りんご",
+    "opsi_jawaban": "A. Jeruk\nB. Apel\nC. Pisang\nD. Anggur",
+    "jawaban": "B"
+  },
+  {
+    "soal": "くつ",
+    "opsi_jawaban": "A. Topi\nB. Sepatu\nC. Jas\nD. Sarung Tangan",
+    "jawaban": "B"
+  },
+  {
+    "soal": "えき",
+    "opsi_jawaban": "A. Taman\nB. Stasiun Kereta\nC. Lapangan\nD. Pusat Kota",
+    "jawaban": "B"
+  },
+  {
+    "soal": "おんなのこ",
+    "opsi_jawaban": "A. Laki-Laki\nB. Perempuan\nC. Anak Laki-Laki\nD. Anak Perempuan",
+    "jawaban": "B"
   }
 ]
