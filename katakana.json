@@ -768,5 +768,920 @@
     "soal": "スポーツ",
     "opsi_jawaban": "A. Olahraga\nB. Musik\nC. Seni\nD. Mode",
     "jawaban": "A"
+  },
+  {
+    "soal": "バナナ",
+    "opsi_jawaban": "A. Apel\nB. Mangga\nC. Pisang\nD. Jeruk",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ゴルフ",
+    "opsi_jawaban": "A. Sepak Bola\nB. Golf\nC. Tenis\nD. Basket",
+    "jawaban": "B"
+  },
+  {
+    "soal": "テクノロジー",
+    "opsi_jawaban": "A. Musim Panas\nB. Teknologi\nC. Pendidikan\nD. Seni",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ホテル",
+    "opsi_jawaban": "A. Hotel\nB. Restoran\nC. Rumah\nD. Apartemen",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ギター",
+    "opsi_jawaban": "A. Biola\nB. Gitar\nC. Piano\nD. Drum",
+    "jawaban": "B"
+  },
+  {
+    "soal": "コンピューター",
+    "opsi_jawaban": "A. Buku\nB. Komputer\nC. Radio\nD. Televisi",
+    "jawaban": "B"
+  },
+  {
+    "soal": "サッカー",
+    "opsi_jawaban": "A. Bisbol\nB. Basket\nC. Tenis\nD. Sepak Bola",
+    "jawaban": "D"
+  },
+  {
+    "soal": "レストラン",
+    "opsi_jawaban": "A. Kafe\nB. Restoran\nC. Pasar\nD. Toko",
+    "jawaban": "B"
+  },
+  {
+    "soal": "アパート",
+    "opsi_jawaban": "A. Rumah\nB. Apartemen\nC. Villa\nD. Hotel",
+    "jawaban": "B"
+  },
+  {
+    "soal": "フィルム",
+    "opsi_jawaban": "A. Foto\nB. Film\nC. Musik\nD. Seni Lukis",
+    "jawaban": "B"
+  },
+  {
+    "soal": "インターネット",
+    "opsi_jawaban": "A. Koran\nB. Majalah\nC. Radio\nD. Internet",
+    "jawaban": "D"
+  },
+  {
+    "soal": "バイオリン",
+    "opsi_jawaban": "A. Piano\nB. Biola\nC. Gitar\nD. Drum",
+    "jawaban": "B"
+  },
+  {
+    "soal": "コンサート",
+    "opsi_jawaban": "A. Teater\nB. Konser\nC. Museum\nD. Pesta",
+    "jawaban": "B"
+  },
+  {
+    "soal": "テレビ",
+    "opsi_jawaban": "A. Film\nB. Radio\nC. Televisi\nD. Drama",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ラジオ",
+    "opsi_jawaban": "A. Film\nB. Televisi\nC. Radio\nD. Musik",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ボーリング",
+    "opsi_jawaban": "A. Golf\nB. Bowling\nC. Tenis\nD. Sepak Bola",
+    "jawaban": "B"
+  },
+  {
+    "soal": "メニュー",
+    "opsi_jawaban": "A. Daftar Belanja\nB. Daftar Menu\nC. Resep\nD. Harga",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ショッピング",
+    "opsi_jawaban": "A. Bermain\nB. Berenang\nC. Berbelanja\nD. Makan",
+    "jawaban": "C"
+  },
+  {
+    "soal": "トラフィック",
+    "opsi_jawaban": "A. Transportasi\nB. Macet\nC. Ramai\nD. Cepat",
+    "jawaban": "B"
+  },
+  {
+    "soal": "アーティスト",
+    "opsi_jawaban": "A. Seniman\nB. Penulis\nC. Aktor\nD. Pemain Musik",
+    "jawaban": "A"
+  },
+  {
+    "soal": "フェスティバル",
+    "opsi_jawaban": "A. Konser\nB. Festival\nC. Pesta\nD. Parade",
+    "jawaban": "B"
+  },
+  {
+    "soal": "アルバム",
+    "opsi_jawaban": "A. Album\nB. Buku\nC. Majalah\nD. Film",
+    "jawaban": "A"
+  },
+  {
+    "soal": "マガジン",
+    "opsi_jawaban": "A. Film\nB. Radio\nC. Majalah\nD. Buku",
+    "jawaban": "C"
+  },
+  {
+    "soal": "アップリケ",
+    "opsi_jawaban": "A. Memasak\nB. Merajut\nC. Melukis\nD. Menjahit",
+    "jawaban": "D"
+  },
+  {
+    "soal": "プレゼント",
+    "opsi_jawaban": "A. Hadiah\nB. Mainan\nC. Uang\nD. Buku",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ダンス",
+    "opsi_jawaban": "A. Berenang\nB. Jogging\nC. Menari\nD. Melukis",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ベジタリアン",
+    "opsi_jawaban": "A. Vegetarian\nB. Vegan\nC. Carnivore\nD. Pescatarian",
+    "jawaban": "A"
+  },
+  {
+    "soal": "オフィス",
+    "opsi_jawaban": "A. Rumah\nB. Kantor\nC. Sekolah\nD. Apartemen",
+    "jawaban": "B"
+  },
+  {
+    "soal": "フェア",
+    "opsi_jawaban": "A. Pameran\nB. Pesta\nC. Festival\nD. Pertunjukan",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ショー",
+    "opsi_jawaban": "A. Pameran\nB. Konser\nC. Teater\nD. Pesta",
+    "jawaban": "C"
+  },
+  {
+    "soal": "コーチ",
+    "opsi_jawaban": "A. Pelatih\nB. Guru\nC. Dokter\nD. Sopir",
+    "jawaban": "A"
+  },
+  {
+    "soal": "バスケットボール",
+    "opsi_jawaban": "A. Sepak Bola\nB. Basket\nC. Tenis\nD. Bulu Tangkis",
+    "jawaban": "B"
+  },
+  {
+    "soal": "クリエイティブ",
+    "opsi_jawaban": "A. Kreatif\nB. Dekoratif\nC. Sederhana\nD. Modern",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ダイエット",
+    "opsi_jawaban": "A. Berenang\nB. Diet\nC. Olahraga\nD. Tidur",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ジャズ",
+    "opsi_jawaban": "A. Klasik\nB. Jazz\nC. Rock\nD. Pop",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ファッション",
+    "opsi_jawaban": "A. Mode\nB. Gaya\nC. Mewah\nD. Sederhana",
+    "jawaban": "A"
+  },
+  {
+    "soal": "トラベル",
+    "opsi_jawaban": "A. Liburan\nB. Travelling\nC. Jalan-jalan\nD. Berlayar",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ビジネス",
+    "opsi_jawaban": "A. Bisnis\nB. Perdagangan\nC. Keuangan\nD. Industri",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ハイキング",
+    "opsi_jawaban": "A. Mendaki\nB. Bersepeda\nC. Berjalan Kaki\nD. Camping",
+    "jawaban": "C"
+  },
+  {
+    "soal": "プロジェクト",
+    "opsi_jawaban": "A. Rencana\nB. Proyek\nC. Ide\nD. Program",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ビーチ",
+    "opsi_jawaban": "A. Pantai\nB. Pegunungan\nC. Desa\nD. Kota",
+    "jawaban": "A"
+  },
+  {
+    "soal": "フィッシング",
+    "opsi_jawaban": "A. Berenang\nB. Memancing\nC. Mendaki\nD. Camping",
+    "jawaban": "B"
+  },
+  {
+    "soal": "メディア",
+    "opsi_jawaban": "A. Majalah\nB. Media\nC. Televisi\nD. Radio",
+    "jawaban": "B"
+  },
+  {
+    "soal": "モーテル",
+    "opsi_jawaban": "A. Hotel\nB. Motel\nC. Apartemen\nD. Rumah",
+    "jawaban": "B"
+  },
+  {
+    "soal": "フットボール",
+    "opsi_jawaban": "A. Sepak Bola\nB. Rugby\nC. Golf\nD. Basket",
+    "jawaban": "A"
+  },
+  {
+    "soal": "エクササイズ",
+    "opsi_jawaban": "A. Olahraga\nB. Melukis\nC. Membaca\nD. Menulis",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ユニバーシティ",
+    "opsi_jawaban": "A. Sekolah\nB. Universitas\nC. Kampus\nD. Institut",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ジム",
+    "opsi_jawaban": "A. Kolam Renang\nB. Fitness\nC. Taman\nD. Lapangan",
+    "jawaban": "B"
+  },
+  {
+    "soal": "カフェ",
+    "opsi_jawaban": "A. Restoran\nB. Kafe\nC. Pusat Belanja\nD. Pasar",
+    "jawaban": "B"
+  },
+  {
+    "soal": "コロニー",
+    "opsi_jawaban": "A. Koloni\nB. Desa\nC. Kota\nD. Negara",
+    "jawaban": "A"
+  },
+  {
+    "soal": "エレベーター",
+    "opsi_jawaban": "A. Tangga\nB. Lift\nC. Escalator\nD. Pintu",
+    "jawaban": "B"
+  },
+  {
+    "soal": "サイクリング",
+    "opsi_jawaban": "A. Sepeda\nB. Motor\nC. Mobil\nD. Bus",
+    "jawaban": "A"
+  },
+  {
+    "soal": "テニス",
+    "opsi_jawaban": "A. Golf\nB. Tenis\nC. Badminton\nD. Basket",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ファミリー",
+    "opsi_jawaban": "A. Keluarga\nB. Teman\nC. Pasangan\nD. Anak-anak",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ハロウィン",
+    "opsi_jawaban": "A. Natal\nB. Halloween\nC. Paskah\nD. Tahun Baru",
+    "jawaban": "B"
+  },
+  {
+    "soal": "デザート",
+    "opsi_jawaban": "A. Makanan Penutup\nB. Hidangan Utama\nC. Salad\nD. Minuman",
+    "jawaban": "A"
+  },
+  {
+    "soal": "テキスト",
+    "opsi_jawaban": "A. Buku\nB. Catatan\nC. Pesan\nD. Surat",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ホラー",
+    "opsi_jawaban": "A. Drama\nB. Komedi\nC. Horor\nD. Romantis",
+    "jawaban": "C"
+  },
+  {
+    "soal": "サーフィン",
+    "opsi_jawaban": "A. Renang\nB. Selancar\nC. Ski\nD. Panjat Tebing",
+    "jawaban": "B"
+  },
+  {
+    "soal": "フィクション",
+    "opsi_jawaban": "A. Fiksi\nB. Non-fiksi\nC. Novel\nD. Cerpen",
+    "jawaban": "A"
+  },
+  {
+    "soal": "レモネード",
+    "opsi_jawaban": "A. Teh\nB. Lemonade\nC. Jus Jeruk\nD. Susu",
+    "jawaban": "B"
+  },
+  {
+    "soal": "サンセット",
+    "opsi_jawaban": "A. Matahari Terbit\nB. Pagi\nC. Siang\nD. Matahari Terbenam",
+    "jawaban": "D"
+  },
+  {
+    "soal": "エキゾチック",
+    "opsi_jawaban": "A. Biasa\nB. Sederhana\nC. Eksotis\nD. Modern",
+    "jawaban": "C"
+  },
+  {
+    "soal": "キャンディー",
+    "opsi_jawaban": "A. Permen\nB. Cokelat\nC. Kue\nD. Es Krim",
+    "jawaban": "A"
+  },
+  {
+    "soal": "チョコレート",
+    "opsi_jawaban": "A. Cokelat\nB. Permen\nC. Es Krim\nD. Kue",
+    "jawaban": "A"
+  },
+  {
+    "soal": "スパイシー",
+    "opsi_jawaban": "A. Pedas\nB. Manis\nC. Asam\nD. Gurih",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ビーフステーキ",
+    "opsi_jawaban": "A. Ayam Goreng\nB. Sapi Panggang\nC. Ikan Bakar\nD. Babi Guling",
+    "jawaban": "B"
+  },
+  {
+    "soal": "シーフード",
+    "opsi_jawaban": "A. Makanan Laut\nB. Steak\nC. Ayam\nD. Vegetarian",
+    "jawaban": "A"
+  },
+  {
+    "soal": "フルーツサラダ",
+    "opsi_jawaban": "A. Salad Sayur\nB. Salad Buah\nC. Mie Goreng\nD. Nasi Goreng",
+    "jawaban": "B"
+  },
+  {
+    "soal": "サラダ",
+    "opsi_jawaban": "A. Salad Sayur\nB. Salad Buah\nC. Mie Goreng\nD. Nasi Goreng",
+    "jawaban": "A"
+  },
+  {
+    "soal": "スパゲッティ",
+    "opsi_jawaban": "A. Nasi Goreng\nB. Bihun Goreng\nC. Mie Ayam\nD. Spaghetti",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ピザ",
+    "opsi_jawaban": "A. Burger\nB. Pizza\nC. Pasta\nD. Salad",
+    "jawaban": "B"
+  },
+  {
+    "soal": "チキンカレー",
+    "opsi_jawaban": "A. Nasi Goreng\nB. Sushi\nC. Chicken Curry\nD. Mie Goreng",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ステーキ",
+    "opsi_jawaban": "A. Ikan Bakar\nB. Sapi Panggang\nC. Chicken Steak\nD. Babi Guling",
+    "jawaban": "B"
+  },
+  {
+    "soal": "アイスクリーム",
+    "opsi_jawaban": "A. Es Krim\nB. Cake\nC. Pudding\nD. Donat",
+    "jawaban": "A"
+  },
+  {
+    "soal": "カクテル",
+    "opsi_jawaban": "A. Jus\nB. Kopi\nC. Cocktail\nD. Teh",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ホットドッグ",
+    "opsi_jawaban": "A. Hamburger\nB. Pizza\nC. Hot Dog\nD. Sushi",
+    "jawaban": "C"
+  },
+  {
+    "soal": "フィッシュアンドチップス",
+    "opsi_jawaban": "A. Chicken Rice\nB. Fish and Chips\nC. Burger and Fries\nD. Sushi",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ハンバーガー",
+    "opsi_jawaban": "A. Pizza\nB. Steak\nC. Sandwich\nD. Hamburger",
+    "jawaban": "D"
+  },
+  {
+    "soal": "シュリンプテンプラ",
+    "opsi_jawaban": "A. Sushi\nB. Tempura Udang\nC. Salad\nD. Pizza",
+    "jawaban": "B"
+  },
+  {
+    "soal": "フレンチフライ",
+    "opsi_jawaban": "A. Sushi\nB. Salad\nC. Kentang Goreng\nD. Pizza",
+    "jawaban": "C"
+  },
+  {
+    "soal": "チキンカツ",
+    "opsi_jawaban": "A. Sushi\nB. Chicken Katsu\nC. Salad\nD. Pizza",
+    "jawaban": "B"
+  },
+  {
+    "soal": "スープ",
+    "opsi_jawaban": "A. Salad\nB. Sup\nC. Pasta\nD. Steak",
+    "jawaban": "B"
+  },
+  {
+    "soal": "カレーライス",
+    "opsi_jawaban": "A. Nasi Goreng\nB. Sushi\nC. Chicken Curry Rice\nD. Mie Goreng",
+    "jawaban": "C"
+  },
+  {
+    "soal": "タコス",
+    "opsi_jawaban": "A. Hamburger\nB. Pizza\nC. Taco\nD. Sushi",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ホワイトボード",
+    "opsi_jawaban": "A. Papan Tulis\nB. Meja\nC. Kursi\nD. Lemari",
+    "jawaban": "A"
+  },
+  {
+    "soal": "キッチン",
+    "opsi_jawaban": "A. Kamar Tidur\nB. Kamar Mandi\nC. Dapur\nD. Ruang Tamu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ソファ",
+    "opsi_jawaban": "A. Meja\nB. Kursi\nC. Sofa\nD. Lemari",
+    "jawaban": "C"
+  },
+  {
+    "soal": "コンピューターデスク",
+    "opsi_jawaban": "A. Meja Komputer\nB. Kursi Komputer\nC. Lemari Komputer\nD. Ruang Komputer",
+    "jawaban": "A"
+  },
+  {
+    "soal": "テレビスタンド",
+    "opsi_jawaban": "A. Meja TV\nB. Kursi TV\nC. Lemari TV\nD. Ruang TV",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ベッドルーム",
+    "opsi_jawaban": "A. Kamar Tidur\nB. Kamar Mandi\nC. Dapur\nD. Ruang Tamu",
+    "jawaban": "A"
+  },
+  {
+    "soal": "シャワー",
+    "opsi_jawaban": "A. Bak Mandi\nB. Kamar Mandi\nC. Shower\nD. Kran Air",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ミラー",
+    "opsi_jawaban": "A. Lemari\nB. Cermin\nC. Kursi\nD. Meja",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ダイニングテーブル",
+    "opsi_jawaban": "A. Meja Makan\nB. Kursi Makan\nC. Lemari Makan\nD. Ruang Makan",
+    "jawaban": "A"
+  },
+  {
+    "soal": "キャビネット",
+    "opsi_jawaban": "A. Meja\nB. Kursi\nC. Lemari\nD. Sofa",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ランプ",
+    "opsi_jawaban": "A. Lampu\nB. Lemari\nC. Kursi\nD. Meja",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ベンチ",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Bangku\nD. Lemari",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ワードローブ",
+    "opsi_jawaban": "A. Meja\nB. Lemari Pakaian\nC. Kursi\nD. Sofa",
+    "jawaban": "B"
+  },
+  {
+    "soal": "オフィスチェア",
+    "opsi_jawaban": "A. Kursi Kantor\nB. Meja Kantor\nC. Lemari Kantor\nD. Ruang Kantor",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ブックシェルフ",
+    "opsi_jawaban": "A. Meja Buku\nB. Kursi Buku\nC. Lemari Buku\nD. Ruang Buku",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ワークステーション",
+    "opsi_jawaban": "A. Meja Kerja\nB. Kursi Kerja\nC. Lemari Kerja\nD. Ruang Kerja",
+    "jawaban": "A"
+  },
+  {
+    "soal": "クローゼット",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Lemari Pakaian\nD. Sofa",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ソーファベッド",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Sofa Bed\nD. Lemari",
+    "jawaban": "C"
+  },
+  {
+    "soal": "デスクランプ",
+    "opsi_jawaban": "A. Meja\nB. Kursi\nC. Lampu Meja\nD. Lemari",
+    "jawaban": "C"
+  },
+  {
+    "soal": "キッズルーム",
+    "opsi_jawaban": "A. Ruang Main\nB. Kamar Anak\nC. Ruang Tamu\nD. Kamar Tidur",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ベビーベッド",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Sofa Bed\nD. Tempat Tidur Bayi",
+    "jawaban": "D"
+  },
+  {
+    "soal": "トイレットペーパー",
+    "opsi_jawaban": "A. Tisu\nB. Shampoo\nC. Sabun\nD. Tissue Toilet",
+    "jawaban": "D"
+  },
+  {
+    "soal": "バスタブ",
+    "opsi_jawaban": "A. Bak Mandi\nB. Kamar Mandi\nC. Toilet\nD. Kran Air",
+    "jawaban": "A"
+  },
+  {
+    "soal": "タオル",
+    "opsi_jawaban": "A. Lemari\nB. Handuk\nC. Kursi\nD. Meja",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ヘアドライヤー",
+    "opsi_jawaban": "A. Alat Cukur\nB. Hair Dryer\nC. Sikat Gigi\nD. Sampo",
+    "jawaban": "B"
+  },
+  {
+    "soal": "シャンプー",
+    "opsi_jawaban": "A. Sampo\nB. Sabun\nC. Conditioner\nD. Body Wash",
+    "jawaban": "A"
+  },
+  {
+    "soal": "キッチンタオル",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Handuk Dapur\nD. Lemari",
+    "jawaban": "C"
+  },
+  {
+    "soal": "オーブン",
+    "opsi_jawaban": "A. Kursi\nB. Oven\nC. Microwave\nD. Lemari",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ミキサー",
+    "opsi_jawaban": "A. Mixer\nB. Blender\nC. Kompor\nD. Mesin Cuci",
+    "jawaban": "A"
+  },
+  {
+    "soal": "レンジ",
+    "opsi_jawaban": "A. Kursi\nB. Lemari\nC. Kompor\nD. Microwave",
+    "jawaban": "D"
+  },
+  {
+    "soal": "サラダボウル",
+    "opsi_jawaban": "A. Meja\nB. Mangkuk Salad\nC. Kursi\nD. Lemari",
+    "jawaban": "B"
+  },
+  {
+    "soal": "コーヒーメーカー",
+    "opsi_jawaban": "A. Mesin Kopi\nB. Teko\nC. Gelas\nD. Cangkir",
+    "jawaban": "A"
+  },
+  {
+    "soal": "キャセロール",
+    "opsi_jawaban": "A. Panci\nB. Wajan\nC. Piring\nD. Teko",
+    "jawaban": "A"
+  },
+  {
+    "soal": "フライパン",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Wajan\nD. Lemari",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ティーポット",
+    "opsi_jawaban": "A. Teko\nB. Panci\nC. Cangkir\nD. Gelas",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ディナープレート",
+    "opsi_jawaban": "A. Piring Makan\nB. Piring Dessert\nC. Mangkuk\nD. Cangkir",
+    "jawaban": "A"
+  },
+  {
+    "soal": "スプーン",
+    "opsi_jawaban": "A. Sumpit\nB. Garpu\nC. Sendok\nD. Pisau",
+    "jawaban": "C"
+  },
+  {
+    "soal": "フォーク",
+    "opsi_jawaban": "A. Sumpit\nB. Garpu\nC. Sendok\nD. Pisau",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ナイフ",
+    "opsi_jawaban": "A. Sumpit\nB. Garpu\nC. Sendok\nD. Pisau",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ワイングラス",
+    "opsi_jawaban": "A. Gelas Anggur\nB. Gelas Teh\nC. Cangkir Kopi\nD. Gelas Air",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ビールジョッキ",
+    "opsi_jawaban": "A. Gelas Anggur\nB. Gelas Teh\nC. Cangkir Kopi\nD. Gelas Bir",
+    "jawaban": "D"
+  },
+  {
+    "soal": "スープボウル",
+    "opsi_jawaban": "A. Mangkuk Soup\nB. Piring Makan\nC. Gelas Teh\nD. Gelas Air",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ケトル",
+    "opsi_jawaban": "A. Teko Listrik\nB. Teko\nC. Panci\nD. Gelas",
+    "jawaban": "B"
+  },
+  {
+    "soal": "アイスクリームスクープ",
+    "opsi_jawaban": "A. Sendok Es Krim\nB. Garpu\nC. Piring Dessert\nD. Cangkir",
+    "jawaban": "A"
+  },
+  {
+    "soal": "カトラリーセット",
+    "opsi_jawaban": "A. Set Piring\nB. Set Sendok Garpu\nC. Set Cangkir\nD. Set Panci",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ランチボックス",
+    "opsi_jawaban": "A. Kotak Makan\nB. Kotak Peralatan\nC. Kotak Alat Tulis\nD. Kotak Perhiasan",
+    "jawaban": "A"
+  },
+  {
+    "soal": "プラスチック容器",
+    "opsi_jawaban": "A. Botol Minum\nB. Gelas Plastik\nC. Wadah Plastik\nD. Piring Plastik",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ティッシュボックス",
+    "opsi_jawaban": "A. Kotak Tisu\nB. Kotak Mainan\nC. Kotak Peralatan\nD. Kotak Perhiasan",
+    "jawaban": "A"
+  },
+  {
+    "soal": "プラスチックコップ",
+    "opsi_jawaban": "A. Gelas Plastik\nB. Gelas Kaca\nC. Cangkir Plastik\nD. Cangkir Kaca",
+    "jawaban": "A"
+  },
+  {
+    "soal": "シルバーウェア",
+    "opsi_jawaban": "A. Perak Asli\nB. Sendok Garpu Perak\nC. Piring Perak\nD. Gelas Perak",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ペッパーシェーカー",
+    "opsi_jawaban": "A. Garam\nB. Merica\nC. Sendok\nD. Garpu",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ガラスジャー",
+    "opsi_jawaban": "A. Toples Kaca\nB. Toples Plastik\nC. Gelas Kaca\nD. Gelas Plastik",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ストレーナー",
+    "opsi_jawaban": "A. Saringan\nB. Pemanas\nC. Cetakan\nD. Penyaring",
+    "jawaban": "A"
+  },
+  {
+    "soal": "キッチンスケール",
+    "opsi_jawaban": "A. Timbangan\nB. Sendok Timbang\nC. Penggaris\nD. Pisau",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ワインオープナー",
+    "opsi_jawaban": "A. Pembuka Botol Anggur\nB. Sendok\nC. Garpu\nD. Pemotong",
+    "jawaban": "A"
+  },
+  {
+    "soal": "トースター",
+    "opsi_jawaban": "A. Kompor\nB. Microwave\nC. Oven\nD. Toaster",
+    "jawaban": "D"
+  },
+  {
+    "soal": "エスプレッソマシン",
+    "opsi_jawaban": "A. Mesin Kopi\nB. Mesin Cuci\nC. Mesin Fotokopi\nD. Mesin Es Krim",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ブレンダー",
+    "opsi_jawaban": "A. Mixer\nB. Blender\nC. Pengaduk\nD. Pengocok",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ジューサー",
+    "opsi_jawaban": "A. Mesin Jus\nB. Mesin Cuci\nC. Mesin Fotokopi\nD. Mesin Es Krim",
+    "jawaban": "A"
+  },
+  {
+    "soal": "キッチンタオルフック",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Gantungan Handuk Dapur\nD. Lemari",
+    "jawaban": "C"
+  },
+  {
+    "soal": "キッチンペイント",
+    "opsi_jawaban": "A. Cat Dinding\nB. Cat Kuku\nC. Cat Mobil\nD. Cat Kamar Mandi",
+    "jawaban": "A"
+  },
+  {
+    "soal": "キッチンカウンター",
+    "opsi_jawaban": "A. Meja Dapur\nB. Kursi Dapur\nC. Lemari Dapur\nD. Rak Dapur",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ダイニングチェア",
+    "opsi_jawaban": "A. Kursi Makan\nB. Meja Makan\nC. Lemari Makan\nD. Ruang Makan",
+    "jawaban": "A"
+  },
+  {
+    "soal": "デザートフォーク",
+    "opsi_jawaban": "A. Sendok Es Krim\nB. Garpu Dessert\nC. Piring Dessert\nD. Cangkir",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ストーブ",
+    "opsi_jawaban": "A. Kompor\nB. Microwave\nC. Oven\nD. Toaster",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ディッシュラック",
+    "opsi_jawaban": "A. Rak Piring\nB. Piring Kotor\nC. Piring Pecah\nD. Piring Tumpah",
+    "jawaban": "A"
+  },
+  {
+    "soal": "プレートウォーマー",
+    "opsi_jawaban": "A. Pemanas Piring\nB. Pemanas Gelas\nC. Pemanas Mangkuk\nD. Pemanas Sendok",
+    "jawaban": "A"
+  },
+  {
+    "soal": "アイスバケット",
+    "opsi_jawaban": "A. Ember Es\nB. Ember Air\nC. Ember Pasir\nD. Ember Pecah",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ストームドア",
+    "opsi_jawaban": "A. Pintu Masuk\nB. Pintu Kamar\nC. Pintu Tertutup\nD. Pintu Kamar Mandi",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ベル",
+    "opsi_jawaban": "A. Jam\nB. Bel\nC. Kunci\nD. Lampu",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ウィンドウシェード",
+    "opsi_jawaban": "A. Jendela\nB. Kursi\nC. Lampu\nD. Gorden",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ドアハンドル",
+    "opsi_jawaban": "A. Pegangan Pintu\nB. Pegangan Jendela\nC. Pegangan Lemari\nD. Pegangan Kursi",
+    "jawaban": "A"
+  },
+  {
+    "soal": "フロアランプ",
+    "opsi_jawaban": "A. Lampu Meja\nB. Lampu Lantai\nC. Lampu Dinding\nD. Lampu Kamar",
+    "jawaban": "B"
+  },
+  {
+    "soal": "カーペット",
+    "opsi_jawaban": "A. Lampu\nB. Kursi\nC. Karpet\nD. Meja",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ペンダントライト",
+    "opsi_jawaban": "A. Lampu Gantung\nB. Lampu Tidur\nC. Lampu Meja\nD. Lampu Sorot",
+    "jawaban": "A"
+  },
+  {
+    "soal": "キーラック",
+    "opsi_jawaban": "A. Rak Kunci\nB. Kunci Pintu\nC. Kunci Mobil\nD. Kunci Lemari",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ウォールクロック",
+    "opsi_jawaban": "A. Jam Dinding\nB. Jam Meja\nC. Jam Tangan\nD. Jam Kamar",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ミラー",
+    "opsi_jawaban": "A. Lemari\nB. Cermin\nC. Kursi\nD. Meja",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ブラインド",
+    "opsi_jawaban": "A. Tirai\nB. Gorden\nC. Lampu\nD. Karpet",
+    "jawaban": "A"
+  },
+  {
+    "soal": "フレーム",
+    "opsi_jawaban": "A. Bingkai\nB. Lampu\nC. Karpet\nD. Gorden",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ソーラーライト",
+    "opsi_jawaban": "A. Lampu Tidur\nB. Lampu Dinding\nC. Lampu Meja\nD. Lampu Tenaga Surya",
+    "jawaban": "D"
+  },
+  {
+    "soal": "フレグランスディフューザー",
+    "opsi_jawaban": "A. Parfum\nB. Diffuser\nC. Lilin Aromaterapi\nD. Minyak Wangi",
+    "jawaban": "B"
+  },
+  {
+    "soal": "フローラルアレンジメント",
+    "opsi_jawaban": "A. Bunga\nB. Lampu\nC. Gorden\nD. Karpet",
+    "jawaban": "A"
+  },
+  {
+    "soal": "カウンタースツール",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Bangku Bar\nD. Lemari",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ベンチ",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Bangku\nD. Lemari",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ペデスタルテーブル",
+    "opsi_jawaban": "A. Meja\nB. Kursi\nC. Meja Utama\nD. Meja Pedestal",
+    "jawaban": "D"
+  },
+  {
+    "soal": "フリースタンディングシェルフ",
+    "opsi_jawaban": "A. Rak Buku\nB. Lemari\nC. Gorden\nD. Meja",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ストレージオットマン",
+    "opsi_jawaban": "A. Sofa\nB. Lemari\nC. Meja\nD. Bangku Penyimpanan",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ラウンジチェア",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Sofa\nD. Lemari",
+    "jawaban": "C"
+  },
+  {
+    "soal": "コンソールテーブル",
+    "opsi_jawaban": "A. Meja\nB. Kursi\nC. Lemari\nD. Meja Konsol",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ディヴァン",
+    "opsi_jawaban": "A. Sofa Bed\nB. Sofa Lipat\nC. Sofa Satu Dudukan\nD. Sofa Empuk",
+    "jawaban": "C"
+  },
+  {
+    "soal": "リクライニングソファ",
+    "opsi_jawaban": "A. Sofa\nB. Meja\nC. Sofa Reclining\nD. Lemari",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ハンギングチェア",
+    "opsi_jawaban": "A. Kursi Gantung\nB. Meja Gantung\nC. Lampu Gantung\nD. Sofa Gantung",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ツインベッド",
+    "opsi_jawaban": "A. Tempat Tidur\nB. Tempat Tidur Single\nC. Tempat Tidur Ganda\nD. Tempat Tidur King",
+    "jawaban": "B"
+  },
+  {
+    "soal": "クイーンサイズベッド",
+    "opsi_jawaban": "A. Tempat Tidur\nB. Tempat Tidur Queen\nC. Tempat Tidur King\nD. Tempat Tidur Single",
+    "jawaban": "B"
+  },
+  {
+    "soal": "キングサイズベッド",
+    "opsi_jawaban": "A. Tempat Tidur\nB. Tempat Tidur King\nC. Tempat Tidur Queen\nD. Tempat Tidur Single",
+    "jawaban": "C"
+  },
+  {
+    "soal": "デイベッド",
+    "opsi_jawaban": "A. Tempat Tidur\nB. Sofa Bed\nC. Tempat Tidur Single\nD. Tempat Tidur Ganda",
+    "jawaban": "B"
+  },
+  {
+    "soal": "マットレス",
+    "opsi_jawaban": "A. Kasur\nB. Bantal\nC. Selimut\nD. Guling",
+    "jawaban": "A"
   }
 ]
