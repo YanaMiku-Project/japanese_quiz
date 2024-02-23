@@ -1,0 +1,772 @@
+[
+  {
+    "soal": "コーヒー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Susu\nD. Air",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ケーキ",
+    "opsi_jawaban": "A. Nasi Goreng\nB. Es Krim\nC. Donat\nD. Kue",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ハンバーガー",
+    "opsi_jawaban": "A. Pizza\nB. Steak\nC. Sandwich\nD. Hamburger",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ピザ",
+    "opsi_jawaban": "A. Sushi\nB. Roti\nC. Pizza\nD. Salad",
+    "jawaban": "C"
+  },
+  {
+    "soal": "スパゲッティ",
+    "opsi_jawaban": "A. Bubur\nB. Mie Ayam\nC. Soto\nD. Spaghetti",
+    "jawaban": "D"
+  },
+  {
+    "soal": "アイスクリーム",
+    "opsi_jawaban": "A. Es Krim\nB. Cake\nC. Donat\nD. Roti",
+    "jawaban": "A"
+  },
+  {
+    "soal": "サラダ",
+    "opsi_jawaban": "A. Nasi Goreng\nB. Salad\nC. Sup\nD. Steak",
+    "jawaban": "B"
+  },
+  {
+    "soal": "フルーツ",
+    "opsi_jawaban": "A. Sayuran\nB. Buah\nC. Daging\nD. Telur",
+    "jawaban": "B"
+  },
+  {
+    "soal": "おにぎり",
+    "opsi_jawaban": "A. Bento\nB. Sushi\nC. Onigiri\nD. Ramen",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ティー",
+    "opsi_jawaban": "A. Kopi\nB. Teh\nC. Susu\nD. Air",
+    "jawaban": "B"
+  },
+  {
+    "soal": "チョコレート",
+    "opsi_jawaban": "A. Permen\nB. Cokelat\nC. Biskuit\nD. Es Krim",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ラーメン",
+    "opsi_jawaban": "A. Nasi Goreng\nB. Mie Ayam\nC. Ramen\nD. Sushi",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ビール",
+    "opsi_jawaban": "A. Air Mineral\nB. Teh\nC. Kopi\nD. Bir",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ワイン",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Anggur\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "オレンジジュース",
+    "opsi_jawaban": "A. Jus Apel\nB. Jus Jeruk\nC. Jus Tomat\nD. Jus Mangga",
+    "jawaban": "B"
+  },
+  {
+    "soal": "スムージー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Smoothie\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "カクテル",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Cocktail\nD. Jus",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ホットドッグ",
+    "opsi_jawaban": "A. Sandwich\nB. Pizza\nC. Hamburger\nD. Hot Dog",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ホットココア",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Cokelat Panas\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "クッキー",
+    "opsi_jawaban": "A. Permen\nB. Biskuit\nC. Donat\nD. Kue Kering",
+    "jawaban": "D"
+  },
+  {
+    "soal": "フラペチーノ",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Smoothie\nD. Frappuccino",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ベーコンエッグ",
+    "opsi_jawaban": "A. Roti Bakar\nB. Nasi Goreng\nC. Bacon and Egg\nD. Salad",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ステーキ",
+    "opsi_jawaban": "A. Sushi\nB. Salad\nC. Steak\nD. Mie Goreng",
+    "jawaban": "C"
+  },
+  {
+    "soal": "タコス",
+    "opsi_jawaban": "A. Nasi Goreng\nB. Sushi\nC. Pizza\nD. Tacos",
+    "jawaban": "D"
+  },
+  {
+    "soal": "フルーツサラダ",
+    "opsi_jawaban": "A. Sayuran\nB. Buah\nC. Daging\nD. Telur",
+    "jawaban": "B"
+  },
+  {
+    "soal": "カレーライス",
+    "opsi_jawaban": "A. Sushi\nB. Salad\nC. Nasi Goreng\nD. Curry Rice",
+    "jawaban": "D"
+  },
+  {
+    "soal": "テリヤキチキン",
+    "opsi_jawaban": "A. Ayam Goreng\nB. Mie Ayam\nC. Teriyaki Chicken\nD. Sushi",
+    "jawaban": "C"
+  },
+  {
+    "soal": "フィッシュアンドチップス",
+    "opsi_jawaban": "A. Steak and Chips\nB. Fish and Chips\nC. Burger and Fries\nD. Sushi",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ハムバーガー",
+    "opsi_jawaban": "A. Pizza\nB. Steak\nC. Sandwich\nD. Hamburger",
+    "jawaban": "D"
+  },
+  {
+    "soal": "シュリンプテンプラ",
+    "opsi_jawaban": "A. Sushi\nB. Tempura Udang\nC. Salad\nD. Pizza",
+    "jawaban": "B"
+  },
+  {
+    "soal": "フレンチフライ",
+    "opsi_jawaban": "A. Sushi\nB. Salad\nC. Kentang Goreng\nD. Pizza",
+    "jawaban": "C"
+  },
+  {
+    "soal": "チキンカツ",
+    "opsi_jawaban": "A. Sushi\nB. Chicken Katsu\nC. Salad\nD. Pizza",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ラムネ",
+    "opsi_jawaban": "A. Kopi\nB. Teh\nC. Susu\nD. Ramune",
+    "jawaban": "D"
+  },
+  {
+    "soal": "フルーツティー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Susu\nD. Buah",
+    "jawaban": "D"
+  },
+  {
+    "soal": "クロワッサン",
+    "opsi_jawaban": "A. Roti\nB. Kue\nC. Donat\nD. Croissant",
+    "jawaban": "D"
+  },
+  {
+    "soal": "チーズバーガー",
+    "opsi_jawaban": "A. Hamburger\nB. Cheeseburger\nC. Sandwich\nD. Pizza",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ホットチョコレート",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Cokelat Panas\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "チョコミント",
+    "opsi_jawaban": "A. Cokelat\nB. Mint\nC. Es Krim\nD. Biskuit",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ハチミツトースト",
+    "opsi_jawaban": "A. Roti Bakar\nB. Nasi Goreng\nC. Hachimitsu Toast\nD. Salad",
+    "jawaban": "C"
+  },
+  {
+    "soal": "パンケーキ",
+    "opsi_jawaban": "A. Pancake\nB. Donat\nC. Kue\nD. Es Krim",
+    "jawaban": "A"
+  },
+  {
+    "soal": "シュークリーム",
+    "opsi_jawaban": "A. Eclair\nB. Profiterole\nC. Donat\nD. Susu",
+    "jawaban": "B"
+  },
+  {
+    "soal": "フルーツジュース",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Jus Buah\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "クリームソーダ",
+    "opsi_jawaban": "A. Soda\nB. Teh\nC. Kopi\nD. Cream Soda",
+    "jawaban": "D"
+  },
+  {
+    "soal": "エスプレッソ",
+    "opsi_jawaban": "A. Kopi\nB. Teh\nC. Susu\nD. Es Kopi",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ブルーベリーパフェ",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Blueberry Parfait\nD. Smoothie",
+    "jawaban": "C"
+  },
+  {
+    "soal": "アイスティー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Es Teh\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "マンゴーラッシー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Mango Lassi\nD. Jus Mangga",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ジンジャーエール",
+    "opsi_jawaban": "A. Ginger Ale\nB. Teh\nC. Kopi\nD. Air Jeruk",
+    "jawaban": "A"
+  },
+  {
+    "soal": "モーニングセット",
+    "opsi_jawaban": "A. Sarapan Pagi\nB. Makan Siang\nC. Makan Malam\nD. Kopi Pagi",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ミルクティー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Susu\nD. Air",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ハワイアンピザ",
+    "opsi_jawaban": "A. Pizza\nB. Salad\nC. Nasi Goreng\nD. Hawaiian Pizza",
+    "jawaban": "D"
+  },
+  {
+    "soal": "レモネード",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Lemonade\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "モチ",
+    "opsi_jawaban": "A. Mochi\nB. Sushi\nC. Salad\nD. Pizza",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ヨーグルト",
+    "opsi_jawaban": "A. Yogurt\nB. Teh\nC. Kopi\nD. Susu",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ラムネ",
+    "opsi_jawaban": "A. Kopi\nB. Teh\nC. Susu\nD. Ramune",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ラズベリータルト",
+    "opsi_jawaban": "A. Tart\nB. Kopi\nC. Teh\nD. Susu",
+    "jawaban": "A"
+  },
+  {
+    "soal": "モーニングコーヒー",
+    "opsi_jawaban": "A. Teh Pagi\nB. Kopi Pagi\nC. Susu Pagi\nD. Air Pagi",
+    "jawaban": "B"
+  },
+  {
+    "soal": "アイスクリームコーン",
+    "opsi_jawaban": "A. Es Krim\nB. Kopi\nC. Cornetto\nD. Susu",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ハムチーズサンドイッチ",
+    "opsi_jawaban": "A. Sandwich\nB. Salad\nC. Ham and Cheese Sandwich\nD. Pizza",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ミートパイ",
+    "opsi_jawaban": "A. Pai Daging\nB. Sushi\nC. Salad\nD. Pizza",
+    "jawaban": "A"
+  },
+  {
+    "soal": "クリームブリュレ",
+    "opsi_jawaban": "A. Creme Brulee\nB. Kopi\nC. Teh\nD. Susu",
+    "jawaban": "A"
+  },
+  {
+    "soal": "アボカドスムージー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Smoothie\nD. Avocado Smoothie",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ホットティー",
+    "opsi_jawaban": "A. Teh Panas\nB. Kopi Panas\nC. Susu Panas\nD. Air Panas",
+    "jawaban": "A"
+  },
+  {
+    "soal": "パイナップルジュース",
+    "opsi_jawaban": "A. Jus Apel\nB. Jus Jeruk\nC. Jus Nanas\nD. Jus Mangga",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ストロベリーショートケーキ",
+    "opsi_jawaban": "A. Kue Stroberi\nB. Kopi\nC. Teh\nD. Susu",
+    "jawaban": "A"
+  },
+  {
+    "soal": "グリーンティーアイスクリーム",
+    "opsi_jawaban": "A. Teh Hijau\nB. Kopi\nC. Es Krim\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "シナモンロール",
+    "opsi_jawaban": "A. Kopi\nB. Teh\nC. Susu\nD. Roti Cinnamon",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ベジタリアンピザ",
+    "opsi_jawaban": "A. Pizza Vegetarian\nB. Salad\nC. Nasi Goreng\nD. Pizza",
+    "jawaban": "A"
+  },
+  {
+    "soal": "アールグレイティー",
+    "opsi_jawaban": "A. Teh Hitam\nB. Kopi\nC. Teh Earl Grey\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ホイップクリームフラッペ",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Smoothie\nD. Whipped Cream Frappe",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ホットホワイトチョコレート",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Cokelat Putih Panas\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ラズベリーミントレモネード",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Lemonade\nD. Raspberry Mint Lemonade",
+    "jawaban": "D"
+  },
+  {
+    "soal": "マカロン",
+    "opsi_jawaban": "A. Kopi\nB. Teh\nC. Macaron\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "アイスキャラメルマキアート",
+    "opsi_jawaban": "A. Teh\nB. Caramel Macchiato\nC. Kopi\nD. Susu",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ストロベリーバナナスムージー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Smoothie\nD. Strawberry Banana Smoothie",
+    "jawaban": "D"
+  },
+  {
+    "soal": "マンゴーピーチスムージー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Smoothie\nD. Mango Peach Smoothie",
+    "jawaban": "D"
+  },
+  {
+    "soal": "アップルパイ",
+    "opsi_jawaban": "A. Pai Apel\nB. Sushi\nC. Salad\nD. Pizza",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ブラックベリーモヒート",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Mojito\nD. Blackberry Mojito",
+    "jawaban": "D"
+  },
+  {
+    "soal": "チョコチップクッキー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Biskuit Cokelat\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "アイスマンゴーティー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Es Teh Mangga\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "チョコレートファウンテン",
+    "opsi_jawaban": "A. Air Terjun\nB. Teh\nC. Kopi\nD. Fountain Cokelat",
+    "jawaban": "D"
+  },
+  {
+    "soal": "ホットバニララテ",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Vanilla Latte Panas\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "アイスチャイティー",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Es Teh Chai\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ホワイトモカ",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Moka Putih\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "チョコバナナクレープ",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Crepe Pisang Cokelat\nD. Susu",
+    "jawaban": "C"
+  }, 
+  {
+    "soal": "ホテル",
+    "opsi_jawaban": "A. Rumah\nB. Hotel\nC. Restoran\nD. Toko",
+    "jawaban": "B"
+  },
+  {
+    "soal": "レストラン",
+    "opsi_jawaban": "A. Taman\nB. Gedung\nC. Restoran\nD. Pasar",
+    "jawaban": "C"
+  },
+  {
+    "soal": "コンピューター",
+    "opsi_jawaban": "A. Komputer\nB. Televisi\nC. Kamera\nD. Telepon",
+    "jawaban": "A"
+  },
+  {
+    "soal": "カメラ",
+    "opsi_jawaban": "A. Radio\nB. Kamera\nC. Sepeda\nD. Mobil",
+    "jawaban": "B"
+  },
+  {
+    "soal": "テレビ",
+    "opsi_jawaban": "A. Televisi\nB. Radio\nC. Kipas\nD. Lampu",
+    "jawaban": "A"
+  },
+  {
+    "soal": "エアコン",
+    "opsi_jawaban": "A. Kompor\nB. AC\nC. Kulkas\nD. Mesin Cuci",
+    "jawaban": "B"
+  },
+  {
+    "soal": "カフェ",
+    "opsi_jawaban": "A. Kafe\nB. Toko\nC. Pasar\nD. Restoran",
+    "jawaban": "A"
+  },
+  {
+    "soal": "タクシー",
+    "opsi_jawaban": "A. Motor\nB. Sepeda\nC. Mobil\nD. Kapal",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ホテル",
+    "opsi_jawaban": "A. Rumah\nB. Hotel\nC. Apartemen\nD. Kost",
+    "jawaban": "B"
+  },
+  {
+    "soal": "レストラン",
+    "opsi_jawaban": "A. Taman\nB. Gedung\nC. Restoran\nD. Pasar",
+    "jawaban": "C"
+  },
+  {
+    "soal": "バス",
+    "opsi_jawaban": "A. Kereta\nB. Bis\nC. Taksi\nD. Mobil",
+    "jawaban": "B"
+  },
+  {
+    "soal": "スーパーマーケット",
+    "opsi_jawaban": "A. Toko\nB. Pasar\nC. Supermarket\nD. Kios",
+    "jawaban": "C"
+  },
+  {
+    "soal": "トイレ",
+    "opsi_jawaban": "A. Kamar Mandi\nB. Dapur\nC. Ruang Tamu\nD. Kamar Tidur",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ジム",
+    "opsi_jawaban": "A. Gedung\nB. Mall\nC. Kafe\nD. Gym",
+    "jawaban": "D"
+  },
+  {
+    "soal": "パーティー",
+    "opsi_jawaban": "A. Pesta\nB. Pertunjukan\nC. Konser\nD. Seminar",
+    "jawaban": "A"
+  },
+  {
+    "soal": "オフィス",
+    "opsi_jawaban": "A. Rumah\nB. Kantor\nC. Sekolah\nD. Kampus",
+    "jawaban": "B"
+  },
+  {
+    "soal": "エレベーター",
+    "opsi_jawaban": "A. Tangga\nB. Lift\nC. Eskalator\nD. Pintu",
+    "jawaban": "B"
+  },
+  {
+    "soal": "コンビニ",
+    "opsi_jawaban": "A. Toko Serba Ada\nB. Pasar\nC. Supermarket\nD. Kios",
+    "jawaban": "A"
+  },
+  {
+    "soal": "カード",
+    "opsi_jawaban": "A. Kartu\nB. Kertas\nC. Uang\nD. Amplop",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ライト",
+    "opsi_jawaban": "A. Lampu\nB. Senter\nC. Lentera\nD. Lilin",
+    "jawaban": "A"
+  },
+  {
+    "soal": "テーブル",
+    "opsi_jawaban": "A. Kursi\nB. Meja\nC. Lemari\nD. Rak Buku",
+    "jawaban": "B"
+  },
+  {
+    "soal": "バスルーム",
+    "opsi_jawaban": "A. Dapur\nB. Kamar Mandi\nC. Ruang Tamu\nD. Kamar Tidur",
+    "jawaban": "B"
+  },
+  {
+    "soal": "アイスクリーム",
+    "opsi_jawaban": "A. Es Krim\nB. Cake\nC. Donat\nD. Roti",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ワイン",
+    "opsi_jawaban": "A. Teh\nB. Kopi\nC. Anggur\nD. Susu",
+    "jawaban": "C"
+  },
+  {
+    "soal": "メガネ",
+    "opsi_jawaban": "A. Kacamata\nB. Topi\nC. Anting\nD. Kalung",
+    "jawaban": "A"
+  },
+  {
+    "soal": "チョコレート",
+    "opsi_jawaban": "A. Permen\nB. Cokelat\nC. Biskuit\nD. Es Krim",
+    "jawaban": "B"
+  },
+  {
+    "soal": "サッカー",
+    "opsi_jawaban": "A. Basket\nB. Baseball\nC. Sepak Bola\nD. Golf",
+    "jawaban": "C"
+  },
+  {
+    "soal": "テニス",
+    "opsi_jawaban": "A. Badminton\nB. Golf\nC. Tenis\nD. Renang",
+    "jawaban": "C"
+  },
+  {
+    "soal": "スキー",
+    "opsi_jawaban": "A. Ski\nB. Selancar\nC. Panjat Tebing\nD. Skateboard",
+    "jawaban": "A"
+  },
+  {
+    "soal": "サイクリング",
+    "opsi_jawaban": "A. Lari\nB. Bersepeda\nC. Mendaki\nD. Berenang",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ゴルフ",
+    "opsi_jawaban": "A. Sepak Bola\nB. Golf\nC. Panahan\nD. Tenis Meja",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ボーリング",
+    "opsi_jawaban": "A. Panahan\nB. Bowling\nC. Renang\nD. Berkuda",
+    "jawaban": "B"
+  },
+  {
+    "soal": "カラオケ",
+    "opsi_jawaban": "A. Konser\nB. Karaoke\nC. Pesta\nD. Diskotek",
+    "jawaban": "B"
+  },
+  {
+    "soal": "フィルム",
+    "opsi_jawaban": "A. Film\nB. Buku\nC. Musik\nD. Gambar",
+    "jawaban": "A"
+  },
+  {
+    "soal": "テレビゲーム",
+    "opsi_jawaban": "A. Video Game\nB. Board Game\nC. Card Game\nD. Puzzle",
+    "jawaban": "A"
+  },
+  {
+    "soal": "マガジン",
+    "opsi_jawaban": "A. Majalah\nB. Buku\nC. Koran\nD. Komik",
+    "jawaban": "A"
+  },
+  {
+    "soal": "モバイル",
+    "opsi_jawaban": "A. Mobil\nB. Motor\nC. Telepon Genggam\nD. Laptop",
+    "jawaban": "C"
+  },
+  {
+    "soal": "スマートフォン",
+    "opsi_jawaban": "A. Telepon\nB. Laptop\nC. Ponsel Pintar\nD. Tablet",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ショッピング",
+    "opsi_jawaban": "A. Belanja\nB. Makan\nC. Berlibur\nD. Bekerja",
+    "jawaban": "A"
+  },
+  {
+    "soal": "レジャー",
+    "opsi_jawaban": "A. Liburan\nB. Kerja\nC. Membaca\nD. Menulis",
+    "jawaban": "A"
+  },
+  {
+    "soal": "バケーション",
+    "opsi_jawaban": "A. Liburan\nB. Kerja\nC. Kuliah\nD. Olahraga",
+    "jawaban": "A"
+  },
+  {
+    "soal": "フェスティバル",
+    "opsi_jawaban": "A. Festival\nB. Konser\nC. Pesta\nD. Pertunjukan",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ウェディング",
+    "opsi_jawaban": "A. Ulang Tahun\nB. Pernikahan\nC. Imlek\nD. Lebaran",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ビジネス",
+    "opsi_jawaban": "A. Bisnis\nB. Olahraga\nC. Pendidikan\nD. Seni",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ユーチューブ",
+    "opsi_jawaban": "A. Musik\nB. Video\nC. Buku\nD. Film",
+    "jawaban": "B"
+  },
+  {
+    "soal": "インターネット",
+    "opsi_jawaban": "A. Radio\nB. Televisi\nC. Internet\nD. Koran",
+    "jawaban": "C"
+  },
+  {
+    "soal": "テクノロジー",
+    "opsi_jawaban": "A. Seni\nB. Ilmu Pengetahuan\nC. Teknologi\nD. Matematika",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ソーシャルメディア",
+    "opsi_jawaban": "A. Media Cetak\nB. Media Sosial\nC. Media Elektronik\nD. Media Online",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ウィークエンド",
+    "opsi_jawaban": "A. Hari Kerja\nB. Akhir Pekan\nC. Hari Libur\nD. Hari Minggu",
+    "jawaban": "B"
+  },
+  {
+    "soal": "アクティビティ",
+    "opsi_jawaban": "A. Aktivitas\nB. Bekerja\nC. Bermain\nD. Belajar",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ハリウッド",
+    "opsi_jawaban": "A. Hollywood\nB. Bollywood\nC. Nollywood\nD. Kollywood",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ショッピングモール",
+    "opsi_jawaban": "A. Pasar\nB. Toko\nC. Mall\nD. Kios",
+    "jawaban": "C"
+  },
+  {
+    "soal": "モーテル",
+    "opsi_jawaban": "A. Hotel\nB. Motel\nC. Apartemen\nD. Kost",
+    "jawaban": "B"
+  },
+  {
+    "soal": "カンファレンス",
+    "opsi_jawaban": "A. Seminar\nB. Konferensi\nC. Diskusi\nD. Workshop",
+    "jawaban": "B"
+  },
+  {
+    "soal": "プレゼンテーション",
+    "opsi_jawaban": "A. Penjualan\nB. Pameran\nC. Presentasi\nD. Promosi",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ショートフィルム",
+    "opsi_jawaban": "A. Film Panjang\nB. Film Pendek\nC. Animasi\nD. Dokumenter",
+    "jawaban": "B"
+  },
+  {
+    "soal": "デザイン",
+    "opsi_jawaban": "A. Seni Rupa\nB. Desain\nC. Mode\nD. Musik",
+    "jawaban": "B"
+  },
+  {
+    "soal": "アート",
+    "opsi_jawaban": "A. Seni\nB. Musik\nC. Sastra\nD. Teater",
+    "jawaban": "A"
+  },
+  {
+    "soal": "サイエンス",
+    "opsi_jawaban": "A. Biologi\nB. Kimia\nC. Fisika\nD. Ilmu Pengetahuan Alam",
+    "jawaban": "D"
+  },
+  {
+    "soal": "リサイクル",
+    "opsi_jawaban": "A. Daur Ulang\nB. Menanam\nC. Merawat\nD. Membersihkan",
+    "jawaban": "A"
+  },
+  {
+    "soal": "クッキング",
+    "opsi_jawaban": "A. Memasak\nB. Makan\nC. Berkebun\nD. Menanam",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ジョギング",
+    "opsi_jawaban": "A. Bermain\nB. Bersepeda\nC. Jogging\nD. Berenang",
+    "jawaban": "C"
+  },
+  {
+    "soal": "ヨガ",
+    "opsi_jawaban": "A. Senam\nB. Yoga\nC. Zumba\nD. Pilates",
+    "jawaban": "B"
+  },
+  {
+    "soal": "カンパニー",
+    "opsi_jawaban": "A. Perusahaan\nB. Toko\nC. Pabrik\nD. Kantor",
+    "jawaban": "A"
+  },
+  {
+    "soal": "ソロ",
+    "opsi_jawaban": "A. Bersama\nB. Solo\nC. Duet\nD. Grup",
+    "jawaban": "B"
+  },
+  {
+    "soal": "ファッション",
+    "opsi_jawaban": "A. Mode\nB. Musik\nC. Film\nD. Seni",
+    "jawaban": "A"
+  },
+  {
+    "soal": "グルメ",
+    "opsi_jawaban": "A. Kuliner\nB. Musik\nC. Seni\nD. Mode",
+    "jawaban": "A"
+  },
+  {
+    "soal": "トラベル",
+    "opsi_jawaban": "A. Travelling\nB. Shopping\nC. Cooking\nD. Reading",
+    "jawaban": "A"
+  },
+  {
+    "soal": "スポーツ",
+    "opsi_jawaban": "A. Olahraga\nB. Musik\nC. Seni\nD. Mode",
+    "jawaban": "A"
+  }
+]
